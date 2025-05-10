@@ -1,0 +1,7 @@
+formats:
+  - name: CUSTOM1
+    magic: "00010203"
+    description: "Custom proprietary format 1"
+  - name: CUSTOM2
+    magic: "04050607"
+    description: "Custom proprietary format 2"
